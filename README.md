@@ -13,3 +13,30 @@ Deliverables for the analysis of the school district:
   * School performance based on the type of school
  
     * test
+
+
+
+
+
+
+
+
+
+
+
+![Top_5](https://github.com/MikeHankinson/School_District_Analysis/blob/main/Resources/Top_5.PNG)
+
+![Bottom_5](https://github.com/MikeHankinson/School_District_Analysis/blob/main/Resources/Bottom_5.PNG)
+
+![Math_by_Grade](https://github.com/MikeHankinson/School_District_Analysis/blob/main/Resources/Math_by_Grade.PNG)
+
+![Reading_by_Grade](https://github.com/MikeHankinson/School_District_Analysis/blob/main/Resources/Reading_by_Grade.PNG)
+
+![School_Size](https://github.com/MikeHankinson/School_District_Analysis/blob/main/Resources/Scores_by_School_Size.PNG)
+
+![School_Type](https://github.com/MikeHankinson/School_District_Analysis/blob/main/Resources/Scores_by_School_Type.PNG)
+
+![School_Spending](https://github.com/MikeHankinson/School_District_Analysis/blob/main/Resources/Scores_by_Spending.PNG)
+
+
+
