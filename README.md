@@ -25,45 +25,42 @@ Deliverables for the analysis of the school district:
 
 
 ![Top_5](https://github.com/MikeHankinson/School_District_Analysis/blob/main/Resources/Top_5.PNG)\vspace{10cm}
-
+<br>
 **Table 1: Top 5 Performing Schools by Overall Pass Rate**
-
-
-
-
+<br>
+<br>
+<br>
+ 
 ![Bottom_5](https://github.com/MikeHankinson/School_District_Analysis/blob/main/Resources/Bottom_5.PNG)
-
+<br>
+  
 **Table 2: Bottom 5 Performing Schools by Overall Pass Rate**
-
-
-
-
-
+<br>
+<br>
+<br>
 
 ![Math_by_Grade](https://github.com/MikeHankinson/School_District_Analysis/blob/main/Resources/Math_by_Grade.PNG)
-
+<br>
 **Table 3: Math Performance at Each School by Grade**
-
-
-
-
-
+<br>
+<br>
+<br>
 
 ![Reading_by_Grade](https://github.com/MikeHankinson/School_District_Analysis/blob/main/Resources/Reading_by_Grade.PNG)
-
+<br>
 **Table 4: Reading Performance at Each School by Grade**
-&nbsp;
-&nbsp;
-
-
-
-
-
-
+<br>
+<br>
+<br>
 
 ![School_Size](https://github.com/MikeHankinson/School_District_Analysis/blob/main/Resources/Scores_by_School_Size.PNG)
-
+<br>
 **Table 5: Performance Based Upon School Size**
+<br>
+<br>
+<br>
+
+
 
 
 
