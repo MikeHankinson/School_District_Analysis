@@ -6,8 +6,8 @@ The purpose of this project is to prepare standardized test data from each highs
 
 ## Metrics and Variables
 This study contains two performance metrics:
-*Standardized Math Test Scores
-*Standardized Reading Test Scores
+* Standardized Math Test Scores
+* Standardized Reading Test Scores
 
 ## Deliverables 
 for the analysis of the school district: 
