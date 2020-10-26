@@ -37,7 +37,12 @@ Data was input into the program via csv import of the following two files provid
 * students_complete.csv
 
 ## Discussion
-
+* Tables 1 and 2 provide data of the Top 5 Top and Bottom 5 schools in terms of overall performance.  There is a large gap in performace between these two groups.  
+* Table 3 provides math performance at each school by grade.  There isn't a disparity of scores from grade-to-grade at any of the schools.  
+* Tables 4 provides reading performance at each school by grade.  There isn't a disparity of scores from grade-to-grade at any of the schools.
+* Table 5 shows that the larger schools have a performance significantly lower than that of their peers.  
+* Table 6 shows that charter schools significantly outperform district schools.  
+* Table 7 oddly shows an inverse relationship between spending per student and test scores.  The higher the spending the lower the scores.  
 
 ----------------------------------------------------------------------------------
 ### Appendix of Tables
