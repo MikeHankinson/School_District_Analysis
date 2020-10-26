@@ -14,27 +14,29 @@ This study contains the following potential causation variables:
 * School Type
 * School Spending per Capita
 
+## Additional Study
+Anomalies were found in the standardized testing at one source.  For this reason, the data from Thomas High School ninth grade was extracted from this study. The district will investigate the anomalies and take appropriate action.  Regardless, results from this study compared to the full data set were nearly identical.   
+
 ## Deliverables 
-for the analysis of the school district: 
 * A high-level snapshot of the district's key metrics, presented in a table format
 * An overview of the key metrics for each school, presented in a table format
-* Tables presenting each of the following metrics:
-  * Top 5 and bottom 5 performing schools, based on the overall passing rate
-  * The average math score received by students in each grade level at each school
-  * The average reading score received by students in each grade level at each school
-  * Schol performance based on the budget per student
-  * School performance based on the school size 
-  * School performance based on the type of school
- 
-    * test
+* Tables presenting results of the study are found in the Appendix.
+  * Table 1: Top 5 Performing Schools by Overall Pass Rate
+  * Table 2: Bottom 5 Performing Schools by Overall Pass Rate
+  * Table 3: Math Performance at Each School by Grade
+  * Table 4: Reading Performance at Each School by Grade
+  * Table 5: Performance Based Upon School Size
+  * Table 6: Performance Based Upon School Type
+  * Table 7: Performance Based Upon Spending
 
+## Methodology
+This analysis was completed using Python code in Jupyter Noter using Pandas.  
 
+Data was input into the program via csv import of the following two files provided by the district: 
+* schools_complete.csv
+* students_complete.csv
 
-
-
-
-
-
+## Discussion
 
 
 
