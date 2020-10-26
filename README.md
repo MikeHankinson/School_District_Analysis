@@ -9,6 +9,11 @@ This study contains two performance metrics:
 * Standardized Math Test Scores
 * Standardized Reading Test Scores
 
+This study contains the following potential causation variables:
+* School Size
+* School Type
+* School Spending per Capita
+
 ## Deliverables 
 for the analysis of the school district: 
 * A high-level snapshot of the district's key metrics, presented in a table format
