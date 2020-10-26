@@ -1,7 +1,20 @@
-# School_District_Analysis
-Prepare all school district standardized test data for analysis, reporting and presentation.  Use Python/Jupyter Notebook.  
+# School District Analysis
+<br>
+<br>
+## Purpose
+The purpose of this project is to prepare standardized test data from each highshool district-wide for analysis, reporting and presentation.  The results of this analysis will be used to inform the district of performance trends and patterns.  This study will highlight possible causation variables to provide insight and understanding for resource allocation and policy administration to maximize district performance in the areas of math and reading.  
+<br>
+<br>
+## Metrics and Variables
+This study contains two performance metrics:
+* Standardized Math Test Scores
+* Standardized Reading Test Scores
 
-Deliverables for the analysis of the school district: 
+
+<br>
+<br>
+## Deliverables 
+for the analysis of the school district: 
 * A high-level snapshot of the district's key metrics, presented in a table format
 * An overview of the key metrics for each school, presented in a table format
 * Tables presenting each of the following metrics:
