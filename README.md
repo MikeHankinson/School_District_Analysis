@@ -24,7 +24,7 @@ Deliverables for the analysis of the school district:
 
 
 
-![Top_5](https://github.com/MikeHankinson/School_District_Analysis/blob/main/Resources/Top_5.PNG)\vspace{10cm}
+![Top_5](https://github.com/MikeHankinson/School_District_Analysis/blob/main/Resources/Top_5.PNG)
 <br>
 **Table 1: Top 5 Performing Schools by Overall Pass Rate**
 <br>
