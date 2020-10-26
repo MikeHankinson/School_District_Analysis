@@ -60,26 +60,19 @@ Deliverables for the analysis of the school district:
 <br>
 <br>
 
-
-
-
-
-
-
-
 ![School_Type](https://github.com/MikeHankinson/School_District_Analysis/blob/main/Resources/Scores_by_School_Type.PNG)
-
+<br>
 **Table 6: Performance Based Upon School Type**
-
-
-
-
-
+<br>
+<br>
+<br>
 
 ![School_Spending](https://github.com/MikeHankinson/School_District_Analysis/blob/main/Resources/Scores_by_Spending.PNG)
-
+<br>
 **Table 7: Performance Based Upon Spending**
-
+<br>
+<br>
+<br>
 
 
 
