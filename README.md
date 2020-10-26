@@ -28,7 +28,7 @@ Deliverables for the analysis of the school district:
 
 Table 1: Top 5 Performing Schools by Overall Pass Rate
 
-
+\vspace{10cm}
 
 
 
